@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\WebrequestHw\WebrequestHw\bin\Debug\WebrequestHw.exe.config
+C:\Users\User\source\repos\WebrequestHw\WebrequestHw\bin\Debug\WebrequestHw.exe
+C:\Users\User\source\repos\WebrequestHw\WebrequestHw\bin\Debug\WebrequestHw.pdb
+C:\Users\User\source\repos\WebrequestHw\WebrequestHw\obj\Debug\WebrequestHw.csprojAssemblyReference.cache
+C:\Users\User\source\repos\WebrequestHw\WebrequestHw\obj\Debug\WebrequestHw.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WebrequestHw\WebrequestHw\obj\Debug\WebrequestHw.exe
+C:\Users\User\source\repos\WebrequestHw\WebrequestHw\obj\Debug\WebrequestHw.pdb
+C:\Users\User\source\repos\WebrequestHw\WebrequestHw\bin\Debug\CsQuery.dll
+C:\Users\User\source\repos\WebrequestHw\WebrequestHw\bin\Debug\CsQuery.xml
+C:\Users\User\source\repos\WebrequestHw\WebrequestHw\obj\Debug\WebrequestHw.csproj.CopyComplete
